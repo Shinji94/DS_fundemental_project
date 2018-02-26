@@ -9,4 +9,6 @@ The project is a group project but basicly all the coding and pipline was all de
 
 The final mark of the project is 75%+
 
+because of timing issue, not all the datasets are well preserved
+
 PIPLINE AND METHODLOGY SHOWED IN THE SLIDES PROVIDED
